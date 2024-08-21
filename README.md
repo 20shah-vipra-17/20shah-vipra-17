@@ -1,7 +1,7 @@
 
-# Start Automation with Cypress and Javascript
+# Start Automation with Kathalon
 
-## Feature and benefits of cypress
+## Feature and benefits of Kathalon
     1. Cypress is a next generation front end testing tool built for the modern web.
     2. It is fast, easy and reliable testing for anything that runs in a browser.
     3. It is a free and open source tool.
